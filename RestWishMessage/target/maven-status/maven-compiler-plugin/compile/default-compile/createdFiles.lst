@@ -1,2 +1,6 @@
-com\nt\wish\WishMessageApi.class
+com\nt\entity\DockerStudent.class
+com\nt\service\StudentServImpl.class
 com\nt\RestWishMessageApplication.class
+com\nt\service\IStudentService.class
+com\nt\repo\IStudentRepo.class
+com\nt\controller\WishMessageApi.class
